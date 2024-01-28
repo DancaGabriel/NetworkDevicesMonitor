@@ -7,6 +7,6 @@ metrics, alongside filters to retrieve logs from the central server.
 
 ## 📖 Documentation
 
-The documentation can be read here.
+The documentation can be read [here](Documentation.pdf).
 
 #### ✏️ Final mark: 10
